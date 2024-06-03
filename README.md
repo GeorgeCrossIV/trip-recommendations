@@ -1,8 +1,12 @@
-# Trip Similarity Search & Collaborative Filtering
+# Trip Recommendation, Similarity Search & Collaborative Filtering
 
 ## Introduction
 
 This project aims to develop a trip similarity search feature for travelers using [AstraDB](https://www.datastax.com/products/datastax-astra) and vector embeddings. By leveraging AstraDB's vector database and OpenAI's advanced embedding techniques, we aim to provide personalized travel suggestions based on users' past preferences or trending selections. Additionally, collaborative filtering is integrated to enhance recommendation capabilities beyond vector-based similarity searches, predicting user preferences based on the preferences of others.
+
+## Notebook
+
+You can find the full implementation in the [Trips_Similarity_Search_Vector_Search.ipynb](./Trips_Similarity_Search_Vector_Search.ipynb) notebook.
 
 ## Prerequisites
 
